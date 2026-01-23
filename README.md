@@ -1,6 +1,6 @@
 # Phishing Detection System
 ![Phishing Attack Diagram](diagram-phishing-attack.webp)
-## � Architecture du Système
+## Architecture du Système
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -53,7 +53,7 @@
 
 ---
 
-## �📋 Vue d'ensemble
+## 📋 Vue d'ensemble
 
 Ce projet développe un **système de détection automatisé de sites de phishing** utilisant le machine learning. L'approche combine l'**extraction de features brutes**, l'**analyse statistique rigoureuse**, et la **sélection automatique de features** pour construire un modèle prédictif robuste et interprétable.
 
@@ -310,7 +310,7 @@ Project_Phishing/
 
 ---
 
-## 🚀 Utilisation
+##  Utilisation
 
 ### 1. Installation des dépendances
 ```bash
@@ -431,8 +431,3 @@ Avec 60+ features, 90% seraient redondantes. Forward selection garde **seulement
 - **Forward Feature Selection** : Technique de sélection itérative ([Scikit-Learn](https://scikit-learn.org/))
 - **ROC-AUC** : Métrique de performance ([Understanding ROC Curves](https://en.wikipedia.org/wiki/Receiver_operating_characteristic))
 - **Phishing Detection Literature** : Domain-based features are proven discriminative
-
----
-
-## 👤 Auteur
-Yassine - Projet de détection de phishing basé sur l'analyse statistique
